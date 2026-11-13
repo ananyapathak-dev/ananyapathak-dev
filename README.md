@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="Ananya Pathak, developer learning in public, beside a globe drawn from hundreds of thousands of tiny particles" width="100%" />
+<img src="assets/banner.webp" alt="Ananya Pathak, developer learning in public, beside a globe of tiny particles that turns slowly, showing each continent in turn" width="100%" />
 
 I write code in public. This page is a snapshot of my GitHub: what I've built, what I've forked to learn from, and how often I show up.
 
@@ -22,6 +22,6 @@ Also started: [batch-b1](https://github.com/ananyapathak-dev/batch-b1) · [conte
 
 ## Activity
 
-<img src="assets/activity.png" alt="Contribution skyline: 24 public contributions between 9 Nov 2025 and 13 Nov 2026, mostly in October, with a few in August and September" width="100%" />
+<img src="assets/skyline.webp" alt="Animated skyline of 24 public contributions between 9 Nov 2025 and 13 Nov 2026: a flat grid of days rises into towers, tallest on 4 Oct with 7 contributions, then settles and repeats" width="100%" />
 
-<sub>A year of public contributions, one box per day, drawn as a skyline. Snapshot of 13 Nov 2026 — the live graph is just below.</sub>
+<sub>A year of public contributions, one box per day: the grid rises into a skyline, holds, and settles again. Snapshot of 13 Nov 2026 — the live graph is just below.</sub>
